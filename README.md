@@ -1,2 +1,0 @@
-# ReactExample
-Created with CodeSandbox
